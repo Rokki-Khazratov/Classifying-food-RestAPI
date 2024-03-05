@@ -30,7 +30,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'rest_framework',
-    'wheel',
+    'api',
     # 'whitenoise.runserver_nostatic',  # Add this line
 
 ]
