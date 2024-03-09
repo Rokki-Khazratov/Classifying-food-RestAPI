@@ -2,6 +2,11 @@
 
 This Django REST API allows you to perform image classification using a pre-trained AI model and provides a user-friendly endpoint to upload and classify images. The AI model is based on a Fastai deep learning framework, and it is capable of classifying various fruits, vegetables, and fast food items.
 
+## AI Model Source : https://github.com/Meliyev
+
+
+
+
 ## Installation
 
 1. **Clone the repository:**
